@@ -7,6 +7,10 @@
 - Criação de um Sistema Bancário em Python
 
 
+° 2 Banco v2
+- Atualização na operação do Banco adicionando Novas Funcionalidades
+
+
 
 
 
