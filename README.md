@@ -15,6 +15,10 @@
 - Atualização do Sistema com classes e herança
 
 
+° 4 Banco v4
+- Desafio extra proposto pelo Bootcamp
+
+
 
 
 
