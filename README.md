@@ -19,6 +19,10 @@
 - Desafio extra proposto pelo Bootcamp
 
 
+° 5 Atividade Power BI
+- Relatório pedido relacionando algumas unidades sobre Vendas
+
+
 
 
 
